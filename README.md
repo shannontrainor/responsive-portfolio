@@ -5,6 +5,7 @@
 
 ### Useage
 Below is a look at the About Me page of my portfolio.
+
  ![](Assets/myphotos/about-me-copy.png)
 
 ### Deployed Here
