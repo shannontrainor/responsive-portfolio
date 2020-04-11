@@ -31,3 +31,15 @@ a.nav-link {
     font-family: georgia;
     font-size: 20px;
 }
+.contact-header {
+    font-family: georgia;
+    font-size: 50px;
+    color: plum;
+}
+
+.portfolio-header {
+    font-size: 50px;
+    font-family:georgia;
+    color:plum;
+    text-align:center;
+}
