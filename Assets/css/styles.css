@@ -18,5 +18,16 @@ body {
 }
 
 p {
-    color: palegreen;
+    color: black;
+    font-family:georgia;
+}
+
+.btn-lg {
+    font-family: georgia;
+    font-size: 25px;
+}
+
+a.nav-link {
+    font-family: georgia;
+    font-size: 20px;
 }
