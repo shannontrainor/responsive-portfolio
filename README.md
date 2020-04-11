@@ -9,5 +9,5 @@ Below is a look at the About Me page of my portfolio.
  ![](Assets/myphotos/about-me-copy.png)
 
 ### Deployed Here
-You can fine my responsive portfolio located at the link below.
+You can fine my responsive portfolio located at the link here:
 https://shannontrainor.github.io/responsive-portfolio/
