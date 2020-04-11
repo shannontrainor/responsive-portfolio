@@ -43,3 +43,12 @@ a.nav-link {
     color:plum;
     text-align:center;
 }
+
+h2 {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: georgia;
+
+}
