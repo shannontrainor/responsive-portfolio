@@ -1,3 +1,7 @@
-.navbar {
-    margin-bottom: 30px;
+body {
+    background-color: lightcoral;
+}
+
+.card-header {
+    color: orange;
 }
