@@ -1,7 +1,3 @@
-body {
-    background-color: lightcoral;
-}
-
-.card-header {
-    color: orange;
+a.navbar-nav {
+    margin-right: 0; 
 }
