@@ -46,9 +46,16 @@ a.nav-link {
 
 h2 {
     background-color: white;
-    color: black;
+    color:plum;
     font-size: 25px;
     text-align: center;
     font-family: georgia;
+}
 
+h3 {
+    background-color: white;
+    color: plum;
+    font-size: 20px;
+    text-align: center;
+    font-family: georgia;
 }
